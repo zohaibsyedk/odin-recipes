@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipe style webside created during the odin project course. This will use HTML and CSS aspects to create my first website.
